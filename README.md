@@ -13,6 +13,8 @@
 
 ## ⚡ Technical Skills  
 
+## ⚡ Technical Skills  
+
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Microsoft_.NET_logo.png" width="60"></td>
@@ -32,17 +34,16 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SQL_Server_logo.png" width="60"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Postman_Logo.png" width="60"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/JSON_Web_Token_Logo.svg" width="60"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Web_API_Logo.png" width="60"></td>
-    <td></td>
+    <td><img src="https://camo.githubusercontent.com/d1c060eef161748ffe94ee1004fb9987437bc68fa40563857493d2a725238c68/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667" width="60"></td>
   </tr>
   <tr>
     <td><b>SQL Server</b></td>
     <td><b>Postman</b></td>
     <td><b>JWT</b></td>
-    <td><b>Web API</b></td>
-    <td></td>
+    <td><b>.NET Core</b></td>
   </tr>
 </table>
+
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sallamat-494901282/)  
