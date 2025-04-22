@@ -11,16 +11,38 @@
 - 📦 SQL Server | Entity Framework
 - 🌐 HTML | CSS | JavaScript | Bootstrap
 
-   
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![MVC](https://img.shields.io/badge/MVC-005571?style=flat&logo=microsoft&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+## ⚡ Technical Skills  
+
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Microsoft_.NET_logo.png" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_Logo.png" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bootstrap_Logo.svg" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Docker_logo.png" width="60"></td>
+  </tr>
+  <tr>
+    <td><b>.NET</b></td>
+    <td><b>C#</b></td>
+    <td><b>GitHub</b></td>
+    <td><b>Bootstrap</b></td>
+    <td><b>Docker</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SQL_Server_logo.png" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Postman_Logo.png" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/JSON_Web_Token_Logo.svg" width="60"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Web_API_Logo.png" width="60"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>SQL Server</b></td>
+    <td><b>Postman</b></td>
+    <td><b>JWT</b></td>
+    <td><b>Web API</b></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sallamat-494901282/)  
