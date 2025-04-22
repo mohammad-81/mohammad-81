@@ -7,7 +7,7 @@
 ## ⚡ Technical Skills 
 
 - 🏗️ .NET MVC | Clean Architecture
-- ⚡ Git & GitHub | CI/CD
+- ⚡ Git & GitHub | Docker
 - 📦 SQL Server | Entity Framework
 - 🌐 HTML | CSS | JavaScript | Bootstrap
 
