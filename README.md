@@ -13,8 +13,6 @@
 
 ## ⚡ Technical Skills  
 
-## ⚡ Technical Skills  
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"></td>
