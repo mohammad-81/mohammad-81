@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Mohammad Salamat!**
+# 👋 Hey there, I'm **Mohammad Sallamat!**
 
 🚀 **Passionate Software Engineering student** with a strong focus on **.NET development**, specializing in **MVC** and **Web API architectures**.  
 💡 Constantly exploring **new technologies**, refining my skills, and pushing the boundaries of innovation in the **tech and software industry**.  
