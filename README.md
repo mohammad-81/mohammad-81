@@ -30,14 +30,12 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"></td>
-    
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60"></td>
   </tr>
   <tr>
     <td><b>Postman</b></td>
-    
     <td><b>JavaScript</b></td>
     <td><b>JWT</b></td>
     <td><b>Web API</b></td>
